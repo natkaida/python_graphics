@@ -1,2 +1,2 @@
-# python_gui
-мини-проекты на Python с графическим интерфейсом
+# Python + Pillow + Tkinter
+мини-проекты на Python для обработки графики
